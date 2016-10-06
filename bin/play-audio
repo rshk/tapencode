@@ -1,0 +1,1 @@
+mpv --demuxer-rawaudio-channels=1 --demuxer=rawaudio --demuxer-rawaudio-rate=4096 --demuxer-rawaudio-format=u8 -
